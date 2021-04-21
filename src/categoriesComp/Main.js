@@ -34,7 +34,7 @@ export default function Main() {
 
     return (
         <main>
-            <h2>menu</h2>
+            <h2 className='btn-container'>Restaurant Menu</h2>
             <Search  searcher={submitHandler} />
             <Category categories={allCategories} filteredItems={filterItems}/>
             <Menu items={menuItems} />

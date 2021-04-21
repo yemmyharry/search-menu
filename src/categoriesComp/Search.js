@@ -15,7 +15,7 @@ export default function Search({searcher}) {
   },[searchTerm])
   
   return (
-    <div>
+    <div className="btn-container">
       <input
         type="text"
         placeholder="Search"
