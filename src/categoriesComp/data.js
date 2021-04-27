@@ -13,7 +13,7 @@ const menu = [
       category: 'lunch',
       price: 13.99,
       img: 'https://images.unsplash.com/photo-1538220856186-0be0e085984d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8YnJlYWtmYXN0fGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=60',
-      desc: ` Strawberries, oranges abd pancakes on plates with milk and coffee. `,
+      desc: 'Strawberries, oranges and pancakes on plates with milk and coffee.',
     },
     {
       id: 3,
@@ -29,7 +29,7 @@ const menu = [
       category: 'breakfast',
       price: 20.99,
       img: 'https://images.unsplash.com/photo-1525351484163-7529414344d8?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8YnJlYWtmYXN0fGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60',
-      desc: `Bread with sunny side-up egg served on white ceramic plate `,
+      desc: `Bread with egg served on ceramic plate `,
     },
     {
       id: 5,
@@ -53,7 +53,7 @@ const menu = [
       category: 'breakfast',
       price: 8.99,
       img: 'https://images.unsplash.com/photo-1569692062823-f1196218f0a2?ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8YnVycml0b3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60',
-      desc: `carry jianbing normcore freegan. Viral single-origin coffee live-edge, pork belly cloud bread iceland put a bird `,
+      desc: `Burritoes with fruits on white ceramic plate `,
     },
     {
       id: 8,
@@ -71,22 +71,22 @@ const menu = [
       img: 'https://images.unsplash.com/photo-1544619371-2aacd756277d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8anVpY2VzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=700&q=60',
       desc: `Glass of ice cream with toppings. `,
     },
-    {
-      id: 10,
-      title: 'strawberry smoothie',
-      category: 'smoothies',
-      price: 16.99,
-      img: 'https://images.unsplash.com/photo-1514995428455-447d4443fa7f?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8c21vb3RoaWVzfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=60',
-      desc: `Strawberry juice besides fruits.`,
-    },
-      {
-      id: 11,
-      title: 'pink tapioca',
-      category: 'smoothies',
-      price: 14.99,
-      img: 'https://images.unsplash.com/photo-1557799852-67fdf88b1b01?ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8c21vb3RoaWVzfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=60',
-      desc: `Pink tapioca topped with pink rose buds`,
-    },
+    // {
+    //   id: 10,
+    //   title: 'strawberry smoothie',
+    //   category: 'smoothies',
+    //   price: 16.99,
+    //   img: 'https://images.unsplash.com/photo-1514995428455-447d4443fa7f?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8c21vb3RoaWVzfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=60',
+    //   desc: `Strawberry juice besides fruits.`,
+    // },
+    //   {
+    //   id: 11,
+    //   title: 'pink tapioca',
+    //   category: 'smoothies',
+    //   price: 14.99,
+    //   img: 'https://images.unsplash.com/photo-1557799852-67fdf88b1b01?ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8c21vb3RoaWVzfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=60',
+    //   desc: `Pink tapioca topped with pink rose buds`,
+    // },
   ];
 
   export default menu;
